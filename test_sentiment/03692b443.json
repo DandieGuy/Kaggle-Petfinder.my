@@ -1,0 +1,522 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Destiny is a very sweet dog but she is very hyper active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Previous owner has given her up because they do not like her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She has been spayed and is about 8months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She can also be quite possessive with toys and prefers human attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Future owners have to be prepared to exercise her a lot to tire her out and also to provide some basic obedience training.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is a very good watch dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is currently on a raw diet and I would prefer her to be on it also in future.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are not familiar with the diet I do not mind teaching you how to do it the right way.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Potential adopters have to be able to provide for her lotsa love, shelter, food and medical care and most of all to keep her for the rest of her life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Interested parties can write in to me via email and provide me with a proper introduction of yourself.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I will then proceed with doing a proper interview and decide on the best owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Destiny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.47284934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Destiny",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watch dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20738006,
+      "mentions": [
+        {
+          "text": {
+            "content": "watch dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.101854816,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046925485,
+      "mentions": [
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018942615,
+      "mentions": [
+        {
+          "text": {
+            "content": "human attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018942615,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Future owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015343078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Future owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012761584,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "obedience training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00974149,
+      "mentions": [
+        {
+          "text": {
+            "content": "obedience training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008874663,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008874663,
+      "mentions": [
+        {
+          "text": {
+            "content": "rest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008874663,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008863185,
+      "mentions": [
+        {
+          "text": {
+            "content": "email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077357874,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "introduction",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0062060137,
+      "mentions": [
+        {
+          "text": {
+            "content": "introduction",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "interview",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006198746,
+      "mentions": [
+        {
+          "text": {
+            "content": "interview",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006192119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parties",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.005289228,
+      "mentions": [
+        {
+          "text": {
+            "content": "parties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049264897,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "most",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038940788,
+      "mentions": [
+        {
+          "text": {
+            "content": "most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038940788,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038940788,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038940788,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038940788,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003752969,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Manny and May are two gentle and friendly dogs that belongs to an expatriate family who will be leaving Malaysia soon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They must be adopted together and would be suitable for a family with a garden.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3535694,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29980534,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Manny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18685843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.1037144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03461865,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021433761,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

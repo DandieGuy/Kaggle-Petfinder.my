@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please adopt the puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Every dog regardless of breed should deserved to live its life to the fullest.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Found the puppy from a drain and was raining during that time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Decided to rescued.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.47517076,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22070849,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.091786146,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06589617,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063468665,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fullest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063468665,
+      "mentions": [
+        {
+          "text": {
+            "content": "fullest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019501101,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

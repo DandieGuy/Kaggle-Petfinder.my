@@ -1,0 +1,188 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The siblings all caught by the pound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is roaming around the cafe area looking for food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He need to find a home or the pound will come back again.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is playful puppy and with pointy ears a potential good guard dog",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.591342,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18129805,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08182094,
+      "mentions": [
+        {
+          "text": {
+            "content": "pound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03472403,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033312906,
+      "mentions": [
+        {
+          "text": {
+            "content": "pound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cafe area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024313396,
+      "mentions": [
+        {
+          "text": {
+            "content": "cafe area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024313396,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016962001,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0119132865,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

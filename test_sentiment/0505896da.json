@@ -1,0 +1,363 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is Super affectionate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Skinny =(.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My friend found her near her apartment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Needs a home BADLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She may or may not be neutered, but currently I am putting her under leash so that she would stay in one spot(VERY LONG LEASH).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Adding to that, she's not friendly with other cats, scared maybe.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I can't keep her outside, afraid she'll fight with other passer-by cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "PLEASE SOMEONE NEAR MY AREA, ADOPT THIS CAT.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I couldn't provide her an adequate home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She couldn't ngam with my cat :(( I'm not really sure what her breed is, but she looks kinda Bengal-ish.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mixed maybe.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.741851,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054670487,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05448122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023731844,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016166627,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016005628,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LEASH",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016005628,
+      "mentions": [
+        {
+          "text": {
+            "content": "LEASH",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01481082,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014067198,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011123944,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008503096,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008231149,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bengal-ish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006846232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengal-ish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048987633,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SOMEONE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004303196,
+      "mentions": [
+        {
+          "text": {
+            "content": "SOMEONE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AREA",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004303196,
+      "mentions": [
+        {
+          "text": {
+            "content": "AREA",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

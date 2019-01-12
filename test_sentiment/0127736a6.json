@@ -1,0 +1,361 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Moon light is a very manja girl, Adopter should keep her indoor for his safety without cage her for long period.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter should at least provide premium food for his health.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter should have stable financial to afford his living cost.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter should keep in touch with me to update his conditions once a while.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter is needed to sign an adoption agreement with the term above.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter should consider seriously because this is a lifetime responsibility.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption",
+        "mid": "/m/09lkz"
+      },
+      "salience": 0.38163933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12935595,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Moon light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12219955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moon light",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051714372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050250344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040435318,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "safety",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040435318,
+      "mentions": [
+        {
+          "text": {
+            "content": "safety",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "indoor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036724847,
+      "mentions": [
+        {
+          "text": {
+            "content": "indoor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030959958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lifetime responsibility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025062637,
+      "mentions": [
+        {
+          "text": {
+            "content": "lifetime responsibility",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014289269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013451701,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012287629,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012244484,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010153272,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption agreement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009215183,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption agreement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "term",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009215183,
+      "mentions": [
+        {
+          "text": {
+            "content": "term",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063047013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040609417,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

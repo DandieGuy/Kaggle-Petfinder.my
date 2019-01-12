@@ -1,0 +1,288 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cute little dog was found in a factory area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She is now fostered at a friend's home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is active, very friendly and obedient.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She would make a wonderful pet for a loving family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She wags her tail happily all the time to greet you and loves to get a belly rub.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please take her in and give her a happy home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "As she is still very young, she is most capable of being trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is toilet trained to wee wee and poo on grassy areas only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7289147,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09304011,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082501285,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018016547,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015851941,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly rub",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012592151,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly rub",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010775137,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010745829,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008439086,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "areas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0059058727,
+      "mentions": [
+        {
+          "text": {
+            "content": "areas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051898146,
+      "mentions": [
+        {
+          "text": {
+            "content": "wee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051898146,
+      "mentions": [
+        {
+          "text": {
+            "content": "poo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0028377555,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

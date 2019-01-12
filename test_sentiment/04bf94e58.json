@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A little black color on its tail.Her owner already have three dogs in house, this puppy was gave birth by one of the dog, she hope any kind people will take it in :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5178111,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.091529764,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06503625,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06350983,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06350983,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06201794,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.058434613,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058434613,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019716037,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

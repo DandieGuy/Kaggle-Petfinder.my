@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found lying in the middle of road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Was scare and not moving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.46013796,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45522225,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scare",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08463978,
+      "mentions": [
+        {
+          "text": {
+            "content": "scare",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.6
+  },
+  "language": "en",
+  "categories": []
+}

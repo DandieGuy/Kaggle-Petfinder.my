@@ -1,0 +1,518 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "this is wee wee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "she is almost 5 months and she is 2.3kg.fatty girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "she is orange,short leg cat, big round brown orange eyes,a very cute face, she a baby, . she does not make noise, does not beg for food as i trained all my cats not to make noise,meowing here and there is kinda noisy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "i also trained her not to beg food, so u can have your meal in peace without a cat jumping on your table or chair.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "she will follow you every where you go.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "she is HYPERACTIVE, very active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "she like running around, jumping around, climb the lamp, sofa.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "she like bitting things.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "since wee wee is so active, she cant be near babies or kids, as she might bite thing that can fit her mouth,such as fingers, toes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "please do call me for more info.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fatty girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6070346,
+      "mentions": [
+        {
+          "text": {
+            "content": "fatty girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2158747,
+      "mentions": [
+        {
+          "text": {
+            "content": "wee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016052946,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011047838,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011047838,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011047838,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010472593,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008567331,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008492811,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007862382,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007462478,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074361796,
+      "mentions": [
+        {
+          "text": {
+            "content": "meal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007056626,
+      "mentions": [
+        {
+          "text": {
+            "content": "wee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006908262,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "table",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006908262,
+      "mentions": [
+        {
+          "text": {
+            "content": "table",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chair",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.006908262,
+      "mentions": [
+        {
+          "text": {
+            "content": "chair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067266533,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067266533,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006354118,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005878183,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051567485,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036105842,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fingers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036105842,
+      "mentions": [
+        {
+          "text": {
+            "content": "fingers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036105842,
+      "mentions": [
+        {
+          "text": {
+            "content": "toes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036059099,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sofa",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0022695027,
+      "mentions": [
+        {
+          "text": {
+            "content": "sofa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lamp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0022695027,
+      "mentions": [
+        {
+          "text": {
+            "content": "lamp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

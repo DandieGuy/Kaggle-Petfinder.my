@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Just rescue 4 kitten at my backyard after came back from raya holiday.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Noticed that 3 of them had a watery eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "1 is pretty much healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Will try to help them recover.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Photo links:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6069124,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "backyard",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.26379815,
+      "mentions": [
+        {
+          "text": {
+            "content": "backyard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08458604,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Photo links",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044703454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Photo links",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

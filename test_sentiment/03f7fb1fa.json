@@ -1,0 +1,302 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jojo's big eyes just melt your heart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to climb up your clothes, sit on your shoulder and give you a little love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact us at Martin &amp; Dr. Aida.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Jojo also has three brothers and sisters who need homes too if you have a friend who is looking for a kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "See the video for all four of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27325574,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23804027,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jojo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.107667774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jojo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jojo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Aida",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06569699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aida",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056200206,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052250918,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clothes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045432195,
+      "mentions": [
+        {
+          "text": {
+            "content": "clothes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoulder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030750696,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoulder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028335096,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023785206,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021383327,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018357825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015889674,
+      "mentions": [
+        {
+          "text": {
+            "content": "video",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "four",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0149442535,
+      "mentions": [
+        {
+          "text": {
+            "content": "four",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00800982,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,330 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I am looking for kind people to adopt 8 puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please see pics.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "As mentioned in my profile, our 'pet' stray fathered 8 gorgeous 4-day old puppies (as of 17 Sep ), all of whom need a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Animals help us develop our compassion - my friend 'Kasztanek' did to me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "These puppies would also be great companions with children - both parents are gentle and loving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please call for more information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29850772,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2429151,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kasztanek",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050641544,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Kasztanek",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.049371094,
+      "mentions": [
+        {
+          "text": {
+            "content": "pics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048956804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "profile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04622983,
+      "mentions": [
+        {
+          "text": {
+            "content": "profile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03899311,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compassion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03296392,
+      "mentions": [
+        {
+          "text": {
+            "content": "compassion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031679496,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031294882,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companions",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030551162,
+      "mentions": [
+        {
+          "text": {
+            "content": "companions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024807522,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021812303,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021284498,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015252671,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01473834,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

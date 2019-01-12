@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mika was rescue by a friend, where she nearly kena run over by a car at road side, and as i am famous as an animal lover so... she end up in my house too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Mika is very mischevious and fun to be with, she have endless energy to play with u, but when we busy she could just play with a sock for hour and didn't disturb you :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mika",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/025xh6t",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mika_(singer)"
+      },
+      "salience": 0.5574824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rescue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.13124144,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12126277,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.048214305,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048214305,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03324482,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0328466,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014800739,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sock",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007836135,
+      "mentions": [
+        {
+          "text": {
+            "content": "sock",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "energy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048564407,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

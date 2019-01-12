@@ -1,0 +1,762 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Greetings fellow Dog lovers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "To be honest, I was looking high and low for a puppy to adopt on Petfinder.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I have never done this before, and im not even sure if im doing this right ~ Fate has brought me to find a family of abandoned dogs at my friends factory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I believe the mother choose the factory as a refuge during pregnancy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She gave birth to 5 puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Im personally adopting one, that leaves 4 more puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Living conditions are not good, which leaves me rather worried about the rest.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They are roughly 1+ month old, still weening.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mom clearly has Spitz DNA, white, pointed ears, Medium-long fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "All the puppies are healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I only have the space to bring in one puppy with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So, if any Rescuers / Fosters / Adopters are willing to help out it'll be perfect.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks in advance.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "P.S : Brown puppies are female &amp; cream is male P.P.S : Puppies are based in Cheras",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12984748,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Greetings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12984748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greetings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09778325,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0bt9lr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dog"
+      },
+      "salience": 0.07766778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05016831,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041056484,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Living conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04028262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Living conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petfinder",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petfinder",
+        "mid": "/m/0cdyq6"
+      },
+      "salience": 0.03758645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petfinder",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025372632,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025207626,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024002496,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021563515,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "im",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018679144,
+      "mentions": [
+        {
+          "text": {
+            "content": "im",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends factory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018451452,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01631057,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016212955,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "refuge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01615582,
+      "mentions": [
+        {
+          "text": {
+            "content": "refuge",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pregnancy",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01615582,
+      "mentions": [
+        {
+          "text": {
+            "content": "pregnancy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015014774,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014906121,
+      "mentions": [
+        {
+          "text": {
+            "content": "rest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fate",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014211108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fate",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012149999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011855147,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescuers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011164007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescuers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fosters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011164007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fosters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Im",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010959936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Im",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010893022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mom",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0lbxz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mother"
+      },
+      "salience": 0.0103135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Spitz DNA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008790536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spitz DNA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0078089563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0078089563,
+      "mentions": [
+        {
+          "text": {
+            "content": "advance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007801844,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074621965,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P.P.S",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058987015,
+      "mentions": [
+        {
+          "text": {
+            "content": "P.P.S",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "P.S",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005546817,
+      "mentions": [
+        {
+          "text": {
+            "content": "P.S",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004915491,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004915491,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048434082,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046120477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cheras",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0046120477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheras",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

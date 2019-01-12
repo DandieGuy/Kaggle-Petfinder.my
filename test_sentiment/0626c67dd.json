@@ -1,0 +1,303 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These cuties were abandoned in front of a shop house in a box.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "They were not finished nursing and had to be bottle fed for a week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Now they all eat solid food and now starting to use potty/newspaper.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "There are 4 females and 2 males.Hope to find a forever home for these playful fur babies (blue and green eyes) + super fluff!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They can be adopted individually or in pairs (not so lonely) or more.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cuties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39241838,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15413512,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shop house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15413512,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "females",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.070688255,
+      "mentions": [
+        {
+          "text": {
+            "content": "females",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0614398,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nursing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029971223,
+      "mentions": [
+        {
+          "text": {
+            "content": "nursing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02498336,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02046275,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newspaper",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02046275,
+      "mentions": [
+        {
+          "text": {
+            "content": "newspaper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "males.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018723667,
+      "mentions": [
+        {
+          "text": {
+            "content": "males.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fluff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014139588,
+      "mentions": [
+        {
+          "text": {
+            "content": "fluff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pairs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009888022,
+      "mentions": [
+        {
+          "text": {
+            "content": "pairs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009888022,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062213135,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062213135,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062213135,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

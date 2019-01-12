@@ -1,0 +1,359 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "It's rescue from my work place, age about 2-3 month when I rescue.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I will pay all the vaccinated, dewormed, spayed but I have specify veterinarian, or if not inconvenient you can tell me first, if not I won't accept and pay that.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Can COD KL and Selangor area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "No cage all day that all, give them a forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Update picture per week for me，experienced is preferred.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Is a sticker cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "1.Free a cat dry food (New) 2.Cat litter (Used Cat Best 30L) and box 3.Cat food bowl x 2 4.Barf (If still left)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.430203,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15668839,
+      "mentions": [
+        {
+          "text": {
+            "content": "work place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15668839,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038153406,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020307826,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "COD KL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020307826,
+      "mentions": [
+        {
+          "text": {
+            "content": "COD KL",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "veterinarian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020160748,
+      "mentions": [
+        {
+          "text": {
+            "content": "veterinarian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018576171,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018576171,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Update picture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01852553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Update picture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017359098,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017359098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0158401,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.013920998,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.012032876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sticker cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009775488,
+      "mentions": [
+        {
+          "text": {
+            "content": "sticker cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009754396,
+      "mentions": [
+        {
+          "text": {
+            "content": "food bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "3.Cat",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01yrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat"
+      },
+      "salience": 0.005770488,
+      "mentions": [
+        {
+          "text": {
+            "content": "3.Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

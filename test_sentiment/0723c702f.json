@@ -1,0 +1,388 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My friend found a pup in Sri Sentosa, Old Klang Road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is quite young and seems abandoned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He's very playful , very friendly and appears to be healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He always roams behind an apartment compound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The apartment is called 1C Pinang, Sri Sentosa, Old Klang Road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He finds shelter underneath cars and is fed by the neighbors in the area but it's not a safe area and he is in need of a loving home as he is too young to be by himself and we're afraid he might get run over by a car :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I would take him in myself but my hands are full with 4 dogs at the moment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If interested in taking him in, please call my friend Stephanie on.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7854739,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053469937,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sri Sentosa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1tfg9r56"
+      },
+      "salience": 0.03648889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sri Sentosa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sri Sentosa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027324274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010537275,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Stephanie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008357378,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Stephanie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0077187773,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0076419073,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007084807,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0067840144,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067840144,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment compound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067347866,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062264246,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062264246,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0046961703,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046872958,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "1C Pinang",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11h1nckgs"
+      },
+      "salience": 0.0046643266,
+      "mentions": [
+        {
+          "text": {
+            "content": "1C Pinang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045736576,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

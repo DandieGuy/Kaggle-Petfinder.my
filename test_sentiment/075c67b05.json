@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "NAME :TETTY GENDER :Female BREED :Terrier-X COLOUR :White &amp; Brown DE-WORMING DATE :1./09 VACCINATION DATE :/09 SPAY/NEUTER DATE : Done.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "NAME",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6378974,
+      "mentions": [
+        {
+          "text": {
+            "content": "NAME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "COLOUR",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22308008,
+      "mentions": [
+        {
+          "text": {
+            "content": "COLOUR",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TETTY GENDER :Female BREED :Terrier-X",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13902256,
+      "mentions": [
+        {
+          "text": {
+            "content": "TETTY GENDER :Female BREED :Terrier-X",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

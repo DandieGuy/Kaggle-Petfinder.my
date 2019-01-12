@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm not sure it's a female or a male, this is because jihoo likes to play, everytime i want to touch , jihoo busy playing with jean and jin pyo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "jihoo is very adorable,playfull,cute, jihoo is 2 half month,is the age where they play,learn new things.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "please call me if your interested",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3437662,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13830347,
+      "mentions": [
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jihoo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11576744,
+      "mentions": [
+        {
+          "text": {
+            "content": "jihoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.103328936,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jin pyo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09559565,
+      "mentions": [
+        {
+          "text": {
+            "content": "jin pyo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jean",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09559565,
+      "mentions": [
+        {
+          "text": {
+            "content": "jean",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jihoo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06372743,
+      "mentions": [
+        {
+          "text": {
+            "content": "jihoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022626434,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jihoo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021288762,
+      "mentions": [
+        {
+          "text": {
+            "content": "jihoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

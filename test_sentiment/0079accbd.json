@@ -1,0 +1,405 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This kitten actually is rescued by the vet we visited.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "When rescued by doctor she was sick.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "But now fully recovered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is very healthy now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Had been vaccine for 1st injection.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Her body is white, only tail and ears mixed a little bit yellow, with clear blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Her tail is curl, very cute and pretty girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Currently she live at &quot;Lee Vet&quot; at Kuchai Business Park same row with MayBank.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "For anyone interested to adopt may contact me(in my profile) or Lee Vet .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Business hour is 10am to 7.30pm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "But u can contact me anytime.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44787273,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18683091,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10677357,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "curl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.075018875,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023145668,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021919265,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019506583,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019506583,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019312533,
+      "mentions": [
+        {
+          "text": {
+            "content": "injection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017872326,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015685514,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "profile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013444078,
+      "mentions": [
+        {
+          "text": {
+            "content": "profile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lee Vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009928828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Vet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "row",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005915382,
+      "mentions": [
+        {
+          "text": {
+            "content": "row",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005906825,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lee Vet",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004365385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Vet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kuchai Business Park",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1q5bm7vt6"
+      },
+      "salience": 0.003497481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuchai Business Park",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MayBank",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Maybank",
+        "mid": "/m/03_nyf"
+      },
+      "salience": 0.003497481,
+      "mentions": [
+        {
+          "text": {
+            "content": "MayBank",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

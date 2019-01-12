@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "If you are interested to adopt the puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You may call us and visit the puppy, a short interview will be conducted to determining their suitability.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Sorry but not SMS or E-mail shall be entertained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "If you don’t have the time to visit us or the puppy, then you are NOT THE PERSON we looking for the puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Thank You for your understanding",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5184935,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1327152,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "interview",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.062905155,
+      "mentions": [
+        {
+          "text": {
+            "content": "interview",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suitability",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053051863,
+      "mentions": [
+        {
+          "text": {
+            "content": "suitability",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05279048,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "E-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05279048,
+      "mentions": [
+        {
+          "text": {
+            "content": "E-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PERSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046004012,
+      "mentions": [
+        {
+          "text": {
+            "content": "PERSON",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034240626,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "understanding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025509449,
+      "mentions": [
+        {
+          "text": {
+            "content": "understanding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021499237,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

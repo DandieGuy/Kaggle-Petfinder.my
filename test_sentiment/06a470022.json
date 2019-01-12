@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "xiao pao is a very playful and active dog and pure breed, Can listen to simple instructions , Need to put him up for adoption since we need transfer to sabah, Need owners who can spend time with him and not cage him, xiao pao has been given all his vacination and only keet in the compund of my house,",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "xiao pao",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5572529,
+      "mentions": [
+        {
+          "text": {
+            "content": "xiao pao",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12901725,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.103313275,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04098842,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028262412,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instructions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027923875,
+      "mentions": [
+        {
+          "text": {
+            "content": "instructions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "keet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019663416,
+      "mentions": [
+        {
+          "text": {
+            "content": "keet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sabah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07348",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sabah"
+      },
+      "salience": 0.016845364,
+      "mentions": [
+        {
+          "text": {
+            "content": "sabah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015470343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Need",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vacination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015049959,
+      "mentions": [
+        {
+          "text": {
+            "content": "vacination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compund",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013819903,
+      "mentions": [
+        {
+          "text": {
+            "content": "compund",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013819903,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "xiao pao",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009884323,
+      "mentions": [
+        {
+          "text": {
+            "content": "xiao pao",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008688689,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

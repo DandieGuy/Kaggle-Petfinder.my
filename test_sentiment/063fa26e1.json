@@ -1,0 +1,601 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Five (5) beautiful, innocent and adorable little puppies were found abandoned in a scruffy little damped box at Kechara Forest Retreat, as much as we would like to foster them we already have too many dogs we can handle and we're looking for good homes to foster these girls.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Yes all five of them are girls and they are the most gentle, most playful and adorable little babies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They have been de-wormed already and is in the process of being vaccinated after we have confirmed their poop is ok for them to take the vaccine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Doctors have estimated that they are about one (1) month old and are healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are eating well, playful and cheerful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "No sign of aggression nor are they naughty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "When we found them they were scared and cautious of humans but have now opened up well and get along with anyone who comes close.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We decided to give them all princess names from different Disney movies: Black Collar - Merida (Brave) Blue Collar - Ariel (Little Mermaid) Green Collar - Peach (Mario Princess - Not exactly Disney but fits her personality) Orange Collar - Jasmine (Aladdin) Red Collar - Mulan (Mulan) If you are interested in them please contact: Clifford - Khoo -",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16811515,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12528005,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12528005,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kechara Forest Retreat",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.074851505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kechara Forest Retreat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Doctors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06376769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05477155,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.048172425,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047588874,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mario Princess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03724534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mario Princess",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "five",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025782337,
+      "mentions": [
+        {
+          "text": {
+            "content": "five",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024207544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peach",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Green Collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018989597,
+      "mentions": [
+        {
+          "text": {
+            "content": "poop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018080257,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Orange Collar - Jasmine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016963214,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Orange Collar - Jasmine",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015864031,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "process",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015604392,
+      "mentions": [
+        {
+          "text": {
+            "content": "process",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blue Collar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015335316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blue Collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aggression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014373387,
+      "mentions": [
+        {
+          "text": {
+            "content": "aggression",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sign",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014373387,
+      "mentions": [
+        {
+          "text": {
+            "content": "sign",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/09b3v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"
+      },
+      "salience": 0.011299453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Disney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Disney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Red Collar",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010739749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Red Collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Black Collar - Merida",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.006384362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black Collar - Merida",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ariel",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0cl19h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ariel_(The_Little_Mermaid)"
+      },
+      "salience": 0.006384362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ariel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brave",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.006384362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brave",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Little Mermaid",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006384362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little Mermaid",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mulan",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7ynnhjy"
+      },
+      "salience": 0.00574591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mulan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mulan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047444846,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movies",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004736695,
+      "mentions": [
+        {
+          "text": {
+            "content": "movies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aladdin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044684904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aladdin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Clifford - Khoo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044684904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifford - Khoo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "princess names",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036131865,
+      "mentions": [
+        {
+          "text": {
+            "content": "princess names",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

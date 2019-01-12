@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "1.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "必须带它结扎和打预防针 2.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "必须养在家里 3.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "领养后必须提供它的生活照让我知道它还安好 4.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "希望领养者能捐赠猫砂或猫饼，协助我救助更多的流浪猫咪",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "生活照",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28427553,
+      "mentions": [
+        {
+          "text": {
+            "content": "生活照",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养者",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22361243,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养者",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "家里",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17541735,
+      "mentions": [
+        {
+          "text": {
+            "content": "家里",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "流浪猫咪",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.107327245,
+      "mentions": [
+        {
+          "text": {
+            "content": "流浪猫咪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "猫砂",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10468373,
+      "mentions": [
+        {
+          "text": {
+            "content": "猫砂",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "猫饼",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10468373,
+      "mentions": [
+        {
+          "text": {
+            "content": "猫饼",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.5
+  },
+  "language": "zh",
+  "categories": []
+}

@@ -1,0 +1,243 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "i found them playing beside the road with no mother.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "i could not leave them there so i decided to bring four of them home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "they are very playful, they can eat dry and wet food.but they like the wet food more since they are still kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "i brought them to the vet for a check up, they are healthy and just need to gain more weight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "please do call me, they need a need new home and a new family.(iena)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.353133,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.22639452,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22639452,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "four",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037258923,
+      "mentions": [
+        {
+          "text": {
+            "content": "four",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036868617,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029185869,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026892548,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02029329,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014181545,
+      "mentions": [
+        {
+          "text": {
+            "content": "family.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0120897945,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "check up",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00891736,
+      "mentions": [
+        {
+          "text": {
+            "content": "check up",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "iena",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008390019,
+      "mentions": [
+        {
+          "text": {
+            "content": "iena",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

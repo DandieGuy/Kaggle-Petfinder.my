@@ -1,0 +1,691 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Firstly, I'm not actually their rescuer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They belong to relatives who live in Bukit Mertajam and can't afford/bother to do anything about the situation; I live abroad but am finishing a visit at the time of writing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Enough about me; on to the puppies: They're all related to each other, though only two are actually sisters.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "All three have the good-natured golden retriever temperament; the sisters (Masha and Irina!) have also inherited the breed's confidence and endearing shamelessness, while the other (Olga!) is rather shy, but warms up with familiarity.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I've listed the adoption fee as 0, but will likely charge something to defray expenses for spaying and such (I'll be probably help their current owners foot the costs...).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Of course, not gonna lie, the more the adopter can chip in the better...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, please email or WhatsApp me at the number listed on my profile.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(I tried listing my email address here but this website's code eats up part of it... hopefully the pet profile email link works.)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Trivia about the name, for the curious: (play)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "relatives",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1725175,
+      "mentions": [
+        {
+          "text": {
+            "content": "relatives",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13516842,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08285396,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063296534,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04627003,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Mertajam",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0ckckx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Mertajam"
+      },
+      "salience": 0.03910997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Mertajam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025098192,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visit",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.025098192,
+      "mentions": [
+        {
+          "text": {
+            "content": "visit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "writing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025098192,
+      "mentions": [
+        {
+          "text": {
+            "content": "writing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024233025,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023276178,
+      "mentions": [
+        {
+          "text": {
+            "content": "other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019197658,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "confidence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017016562,
+      "mentions": [
+        {
+          "text": {
+            "content": "confidence",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017016562,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shamelessness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017016562,
+      "mentions": [
+        {
+          "text": {
+            "content": "shamelessness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "golden retriever temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016603976,
+      "mentions": [
+        {
+          "text": {
+            "content": "golden retriever temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01645945,
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "three",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01620136,
+      "mentions": [
+        {
+          "text": {
+            "content": "three",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "familiarity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015615601,
+      "mentions": [
+        {
+          "text": {
+            "content": "familiarity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015572885,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "expenses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015572885,
+      "mentions": [
+        {
+          "text": {
+            "content": "expenses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015572885,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015572885,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "profile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013308858,
+      "mentions": [
+        {
+          "text": {
+            "content": "profile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01169228,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "website",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011673113,
+      "mentions": [
+        {
+          "text": {
+            "content": "website",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011673113,
+      "mentions": [
+        {
+          "text": {
+            "content": "email address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Olga!",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010067257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olga!",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Irina",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010067257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irina",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Masha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009944279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Masha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "code",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008173008,
+      "mentions": [
+        {
+          "text": {
+            "content": "code",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008173008,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet profile email link",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008173008,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet profile email link",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Trivia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008161181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trivia",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008161181,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058513037,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051510804,
+      "mentions": [
+        {
+          "text": {
+            "content": "costs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051510804,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005139538,
+      "mentions": [
+        {
+          "text": {
+            "content": "course",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

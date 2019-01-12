@@ -1,0 +1,341 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The kittens and the mother are up for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I am not able to keep them at he anymore as my daughter is allergy to cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So ive to give them away including the momma cat.some kitties are male..some female.they are 2 mths old and not vaccinated Mommas are not spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Black tabby -2females, 1 male brown tabby - male grey tabby - 1 male 1 female mommy cat (splinter) grey tabby mommy cat (junior) color like siamese Pick up subang or pj or Shah alam area",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22259094,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20185113,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20185113,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "allergy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04932239,
+      "mentions": [
+        {
+          "text": {
+            "content": "allergy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04642172,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "momma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034854457,
+      "mentions": [
+        {
+          "text": {
+            "content": "momma",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mommas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03239805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mommas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029286634,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026196403,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby -2females",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024139868,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby -2females",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020729324,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby mommy cat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020729324,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby mommy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "junior",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01822019,
+      "mentions": [
+        {
+          "text": {
+            "content": "junior",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012770356,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "subang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012770356,
+      "mentions": [
+        {
+          "text": {
+            "content": "subang",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siamese",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012770356,
+      "mentions": [
+        {
+          "text": {
+            "content": "siamese",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012770356,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pj",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012770356,
+      "mentions": [
+        {
+          "text": {
+            "content": "pj",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shah alam",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0syrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shah_Alam"
+      },
+      "salience": 0.007556663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah alam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

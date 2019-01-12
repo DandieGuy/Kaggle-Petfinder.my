@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Full of love and obedient puppy, all she gives is love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "very loyal and mature character.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.57358867,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21840143,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16627595,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "character",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041733947,
+      "mentions": [
+        {
+          "text": {
+            "content": "character",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,223 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This poor little girl was found in a coffee shop's Toilet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is very playful and likes the attention given.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "More importantly she is looking for an owner who is responsible enough to take care of her for the rest of her life, treats her as part of the family with love and care.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.71474767,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.079558335,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coffee shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06482505,
+      "mentions": [
+        {
+          "text": {
+            "content": "coffee shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03888228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023685884,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015016153,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015016153,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011983221,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010532687,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010532687,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008609437,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006610433,
+      "mentions": [
+        {
+          "text": {
+            "content": "rest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

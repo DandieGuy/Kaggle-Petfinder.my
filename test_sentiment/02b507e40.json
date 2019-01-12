@@ -1,0 +1,38 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Price negotiable..required immediate adopter..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "Price",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

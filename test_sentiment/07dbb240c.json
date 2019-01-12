@@ -1,0 +1,398 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "hello everyone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I want to give this lovely cat to someone who will give her house and owner who will love her with all the heart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I found this cat in the rainy night.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "she was so poor her eyes were full of tears and i couldn't go away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "this kitten in veeeeeeeerryy lovely.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "i have never seen a cat like her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "she is always near by the owner and asking for love.she likes to sleep in owners hugs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "i will give to someone who will not keep her in the cage.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "she must be free.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And i must be sure that her new owner will take care of her.She likes to eat soft and delicious food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5326462,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11117445,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06980947,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051949825,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0417736,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027910188,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025876118,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020868927,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017569058,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017280722,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014121845,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013988075,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013467906,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009719067,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007770747,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "her.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067886063,
+      "mentions": [
+        {
+          "text": {
+            "content": "her.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067886063,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006222712,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners hugs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042738705,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners hugs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

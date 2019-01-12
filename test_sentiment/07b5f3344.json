@@ -1,0 +1,167 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mercy is a very active dog, she loves attention and love to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She has been fully vaccinated and has been spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She looks like a Border collie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pl call Mrs Lai for adoption details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43959132,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mercy",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.2651649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mercy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.157322,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7gf0ghy"
+      },
+      "salience": 0.07716158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024535762,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pl",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020748418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Border collie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0154760005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Border collie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

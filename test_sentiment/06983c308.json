@@ -1,0 +1,314 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi all, I have got this puppies home from the street at Puchong, now staying with me at Damansara.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Healthly, active , clever, and as well as sticky rice always love to follow behind the foot step while walking around in the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If u are responsible enough and can take care of this puppies to get this cutie a forever home, please do not hesitate to grab her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks with Love~",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.23866369,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21191436,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15463659,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08425755,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puchong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cxff7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong"
+      },
+      "salience": 0.050425164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puchong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Damansara",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06w1yny",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damansara,_Selangor"
+      },
+      "salience": 0.050425164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damansara",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "foot step",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028169813,
+      "mentions": [
+        {
+          "text": {
+            "content": "foot step",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028169813,
+      "mentions": [
+        {
+          "text": {
+            "content": "rice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025865227,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Healthly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025633788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Healthly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02210653,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019434057,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013626266,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01357831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01357831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009785103,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009730266,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

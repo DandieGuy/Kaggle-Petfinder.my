@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Female Stray puppy found outside our residential area, extremely friendly girly who always want a friend to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "At the moment cant afford anymore dogs, everyday i help feeding this puppy i hope someone who would contact me and help adopt this poor girly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Since there is some muslim neighbours around this area who hate dog very much, hope someone who would lend a hand help me out.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Contact me through this number Thanks:)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35406652,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1730604,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16760734,
+      "mentions": [
+        {
+          "text": {
+            "content": "girly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08353229,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06708444,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058355603,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02104333,
+      "mentions": [
+        {
+          "text": {
+            "content": "girly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019908259,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbours",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01867997,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbours",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0138954995,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009704979,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0069529214,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006108455,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

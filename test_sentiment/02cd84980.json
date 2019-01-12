@@ -1,0 +1,208 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "we found this cutie in cyberjaya bus terminal - someone dumped him there apparently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "we alreday have 6 kitties at home but had to rescue it coz it is still too small to look for its own food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "been with us for a week now and looking very very healthy after a wholesome diet of kitty's milk, iams kitten kibbles and boiled chicken.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "bus terminal",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.53162956,
+      "mentions": [
+        {
+          "text": {
+            "content": "bus terminal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20881486,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08323569,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033855233,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027521895,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025581205,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023955515,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019223114,
+      "mentions": [
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019223114,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013479918,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chicken",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013479918,
+      "mentions": [
+        {
+          "text": {
+            "content": "chicken",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

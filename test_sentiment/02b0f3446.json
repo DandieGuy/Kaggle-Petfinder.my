@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "just found them at kedai makan this morning.. both are males kitten..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "they are healthy...i need to find them a home because i currently in college and my housemate do not like cats.. good temperament and cute!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.43116286,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23320597,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14869946,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "college",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09346585,
+      "mentions": [
+        {
+          "text": {
+            "content": "college",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housemate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09346585,
+      "mentions": [
+        {
+          "text": {
+            "content": "housemate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

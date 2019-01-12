@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Urgently seeking adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact for more information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7843495,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2156505,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

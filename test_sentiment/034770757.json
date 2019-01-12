@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Arrived home on 25th Sept to find 3 little kittens in a shoe box outside our apartment door.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "What else but to take them in &amp; with help of Mom-Cat, care for them till they're old enough to go off to new homes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They should be ready by 12th Nov .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Wanna book one now?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.36908665,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20217209,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoe box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13277832,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoe box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mom-Cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09085507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mom-Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090756886,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment door",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04470034,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035279226,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "book",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02158533,
+      "mentions": [
+        {
+          "text": {
+            "content": "book",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wanna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012786088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wanna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Looking for good homes for these beautiful babies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "PLease call me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Strictly looking for good homes with visitation rights.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.49142092,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30805704,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12357918,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visitation rights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07694285,
+      "mentions": [
+        {
+          "text": {
+            "content": "visitation rights",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

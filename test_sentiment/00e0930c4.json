@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Extremely adorable and playful kiddos.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are keen let me know.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Available for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You may reach me at via call, message or whatsapp.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kiddos",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.51098657,
+      "mentions": [
+        {
+          "text": {
+            "content": "kiddos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16081952,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12140655,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12140655,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085380845,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

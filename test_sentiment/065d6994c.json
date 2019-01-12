@@ -1,0 +1,547 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi everyone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "NEED HELP TO REHOME KITTEN.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The heavy rain over the past few evenings seems to have caused a lil kitten to have lost it's mummy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was crying behind our house for at least 2 days and was all wet and dirty and hungry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Tried to harden my heart but just couldn't and after the 3rd day, Zuriel and me went to the behind alley and rescued it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He's a lovely lil guy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Prob 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's all clean and shinny now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Removed all fleas and gave him a good bath.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "But we need to rehome him VERY fast as we will be away from 13th Nov till Jan 3rd.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He has a sweet temprement and is as playful as kittens get.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He's lovely and will surely bring joy into any family willing to adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "My 2 year old Zuriel isnt very good at being gentle although he tries, but the kitten seems able to handle him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "So to me, the kitten seems really great even if you have small kids.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is VERY affectionate and wants to hang around wherever the 'humans' are.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Pls do pass the word around to help rehome this lil guy who's lost his mummy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Zuriel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39187542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zuriel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "lil guy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Zuriel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13012034,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.104999654,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lil kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07198115,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "REHOME KITTEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043137122,
+      "mentions": [
+        {
+          "text": {
+            "content": "REHOME KITTEN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lil guy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03146267,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil guy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024937274,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022142597,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01939447,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019341564,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013165007,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013153045,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shinny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013152352,
+      "mentions": [
+        {
+          "text": {
+            "content": "shinny",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013133363,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013133363,
+      "mentions": [
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alley",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0130671235,
+      "mentions": [
+        {
+          "text": {
+            "content": "alley",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temprement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012022919,
+      "mentions": [
+        {
+          "text": {
+            "content": "temprement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010137654,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008928116,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071927262,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007121577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068021985,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061700023,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034282843,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 7.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

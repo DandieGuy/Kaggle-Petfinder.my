@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "she is very playful litter trained found her at food court been taking care of her for 4 months i'm moving and can't take care of her anymore need sumeone who loves cat to adopt her",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43725178,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sumeone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26904646,
+      "mentions": [
+        {
+          "text": {
+            "content": "sumeone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11821802,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food court",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09056182,
+      "mentions": [
+        {
+          "text": {
+            "content": "food court",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04794984,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036972098,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kalu was found by a friend hiding under a crate at Raju's in PJ.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is 2 months old, very active and alert and has no health problems.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A very sweet-natured, uncomplaining puppy who loved her first bath and didn't fuss when vaccinated or had her nails clipped.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She's staying with friends in an apartment at the moment but they can't keep her long.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "We're looking for a good home for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52029145,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15802364,
+      "mentions": [
+        {
+          "text": {
+            "content": "crate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kalu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0963473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kalu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046636976,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Raju",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037491973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raju",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PJ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037491973,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020833047,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health problems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020682547,
+      "mentions": [
+        {
+          "text": {
+            "content": "health problems",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020331036,
+      "mentions": [
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fuss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01912781,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuss",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0100614205,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nails",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063516046,
+      "mentions": [
+        {
+          "text": {
+            "content": "nails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006329205,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

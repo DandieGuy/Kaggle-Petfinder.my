@@ -1,0 +1,477 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens for Adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They were dumped in front of a Kah Yein(myanaimalcare)'s house in a styrofoam box.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They were barely breathing when they found.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They all had flu and diarrhoea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Also found blood in Mulan and Lilo's stool.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They have all been dewormed 3x and took medication to kill parasite.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "They are all feeling much better now, have grown and gained weight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Lilo(Male) is the little ginger kitten with some white fur under her neck and legs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mulan &amp; Penny(Female) are the black kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank You.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "(No adoption fee).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens for Adoption",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4888278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens for Adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lilo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07662525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lilo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ginger kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07260529,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "myanaimalcare",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04334589,
+      "mentions": [
+        {
+          "text": {
+            "content": "myanaimalcare",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kah Yein",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04334589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kah Yein",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "styrofoam box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027884748,
+      "mentions": [
+        {
+          "text": {
+            "content": "styrofoam box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027884748,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02077557,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020427022,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stool",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018881008,
+      "mentions": [
+        {
+          "text": {
+            "content": "stool",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parasite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018838935,
+      "mentions": [
+        {
+          "text": {
+            "content": "parasite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diarrhoea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018702384,
+      "mentions": [
+        {
+          "text": {
+            "content": "diarrhoea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018702384,
+      "mentions": [
+        {
+          "text": {
+            "content": "flu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018651387,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017259536,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012999682,
+      "mentions": [
+        {
+          "text": {
+            "content": "neck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012999682,
+      "mentions": [
+        {
+          "text": {
+            "content": "legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mulan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012572528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mulan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009062179,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mulan & Penny",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008532251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mulan &amp; Penny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005709951,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thank You",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0053658877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thank You",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

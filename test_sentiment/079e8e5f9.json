@@ -1,0 +1,368 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "ABOUT SHADOW we found her wondering around our condo's lobby, as soon as we brought her home she laid down on the bed and ate like she was the queen!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "but till today she is very soft, quiet and doesn't meow often at all, shes very obedient and listens when told not to do something.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "she hates being hugged but at the same time she wants to be.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "shes exactly how her name is, shadow ABOUT AKILA akila is the opposite of shadow, outspoken and she can be abit loud.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "but the most loving cat ever!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "she loves food and would stick her head in the food bowl all day.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "shes the best to cuddle with and to just have around on a sad gloomy day, she will make you smile at any time of the day.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "queen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.65129507,
+      "mentions": [
+        {
+          "text": {
+            "content": "queen",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07034119,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SHADOW",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06717549,
+      "mentions": [
+        {
+          "text": {
+            "content": "SHADOW",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lobby",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054440677,
+      "mentions": [
+        {
+          "text": {
+            "content": "lobby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054440677,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021202818,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010430927,
+      "mentions": [
+        {
+          "text": {
+            "content": "shes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008863816,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0086520575,
+      "mentions": [
+        {
+          "text": {
+            "content": "shes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "opposite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008167362,
+      "mentions": [
+        {
+          "text": {
+            "content": "opposite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shadow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007972125,
+      "mentions": [
+        {
+          "text": {
+            "content": "shadow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007682795,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059745233,
+      "mentions": [
+        {
+          "text": {
+            "content": "shes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047991765,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047991765,
+      "mentions": [
+        {
+          "text": {
+            "content": "food bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047901105,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AKILA akila",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004308585,
+      "mentions": [
+        {
+          "text": {
+            "content": "AKILA akila",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025511878,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021122247,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

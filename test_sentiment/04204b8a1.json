@@ -1,0 +1,343 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Here is Terrie, Handsome and masculine he is.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He has a very strong personality.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A very good food eater he is.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No matter how masculine he is, he'll still paw at your feet to be pampered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's such a pampered fella, always wanting to b at ur feet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He loves attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He cant resist sitting on your lap when u r doing nothing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He loves to play and gets bored easily.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "So he'll need a companion if possible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If u r interested, pls contact MS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Liwi .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "thank you",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.862658,
+      "mentions": [
+        {
+          "text": {
+            "content": "fella",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Terrie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040117756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terrie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Handsome",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.033578265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Handsome",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010544209,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food eater",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010492231,
+      "mentions": [
+        {
+          "text": {
+            "content": "food eater",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008046635,
+      "mentions": [
+        {
+          "text": {
+            "content": "feet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007073687,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006953126,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006555142,
+      "mentions": [
+        {
+          "text": {
+            "content": "b",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041868696,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034360555,
+      "mentions": [
+        {
+          "text": {
+            "content": "MS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002163903,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002163903,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Liwi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020301961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liwi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

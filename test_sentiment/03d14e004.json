@@ -1,0 +1,2490 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Laika’s story: Laika’s story with our family began in a busy supermarket car park in Miri, Sarawak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She was probably little more than a year old, heavily pregnant, and living off scraps from a nearby hawker stall and goodies that people doing their shopping would buy for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She wasn’t very keen to come home with us – she preferred to keep humans at a safe distance back then – but we managed to persuade her with some chicken pieces.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She promptly vomited these up over me, my husband and the back seat of his company car on the drive home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A week later Laika gave birth to five beautiful puppies in a sunny corner of our home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She was still very wary of both me and my husband but she needed our help with her puppies and gradually started to trust us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She was a wonderful mother and was constantly looking after and looking out for her five energetic and demanding babies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "With the help of the PAWS network in Miri we were able to find five good homes for the puppies, but Laika stayed on with us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "This wasn’t a straightforward decision.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "We already had a dog and two cats and we thought carefully about the repsonsibility and cost of taking on another pet when we were certain our future would involve further travel and postings abroad in different countries.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "We didn’t know Laika’s background but her wariness around people and an injury on her front paw suggested she hadn’t had an easy start to life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "But she had come to trust and depend on us and we had grown very attached to her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "With her puppies rehomed and her mothering responsibilities over we got to know Laika better.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She liked to go for walks and adapted quickly to walking in a harness and on a leash, but she loved being off the leash and running along the local beach, usually at quite amazing speeds.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She loved being around us and would sit quite happily at our feet while we worked or watched TV or follow us around the house from room to room.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She loved being stroked, especially on her tummy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You could fuss over her for hours and she wouldn’t get bored.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "And she loved food and was always a little worried about where the next meal was coming from or whether she could gobble up her dinner before someone else got to it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She got along well with our cats and, after a few disagreements over food, became friends with our other dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is still sometimes a little unnerved by sudden movements or excited squeals from our three year old daughter, but this has never caused us any significant concern.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "We also learned that she didn’t like loud noises or crowds and would pull out her harness if we came across a large group of children playing in the street.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She became very nervous if people approached her on the street and it took time for visitors to the house to gain her trust.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She was completely disinterested in playing ball or fetching sticks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She only chewed things when she was stressed or upset.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "After our first long holiday apart from her we came home to find an apologetic pet minder and the contents of the bottom row of our bookshelf in shreds on the rug.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She’d demonstrated her displeasure at being left behind by chewing her way through half of the complete works of Charles Dickens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "And we’d never got round to reading them first.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We are heartbroken that we may lose Laika from our family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Although she is healthy and active, New Zealand Bio Security has denied her entry to the country because she has tested positive to having had Babesia Gibsoni (a variety of tic fever) at some time in her life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Even though the tests show she has fully recovered, the fact that she had it in her past, is enough to bar her from entry into NZ or Australia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We are having the tests repeated to ensure there was no mix up in the samples and are still hoping against hope that there may be some way around this problem, but are preparing ourselves for the worst.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We would love to find Laika a loving home if we are unable to take her with us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She is a wonderful pet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is loving and loyal and the perfect companion and will be your loving shadow when you are with her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As I write this she is curled up behind my chair and if I whisper her name I will receive an answering flick or two from her tail.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please help.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have never been more attached to a dog or more sure that she will bring huge joy to anyone who can offer her a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Sarah Rees",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Miri",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Miri,_Malaysia",
+        "mid": "/m/03x621"
+      },
+      "salience": 0.48599502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Miri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057166252,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "story",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.054602012,
+      "mentions": [
+        {
+          "text": {
+            "content": "story",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "story",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02905687,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Laika",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Laika",
+        "mid": "/m/04r84"
+      },
+      "salience": 0.02235597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021838814,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hawker stall",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019320948,
+      "mentions": [
+        {
+          "text": {
+            "content": "hawker stall",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014958052,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "supermarket car park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014314933,
+      "mentions": [
+        {
+          "text": {
+            "content": "supermarket car park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Laika",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01208026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Laika",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sarawak",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sarawak",
+        "mid": "/m/06_z0"
+      },
+      "salience": 0.009645424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarawak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00854349,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007766208,
+      "mentions": [
+        {
+          "text": {
+            "content": "company car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075352066,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "goodies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006881209,
+      "mentions": [
+        {
+          "text": {
+            "content": "goodies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scraps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006881209,
+      "mentions": [
+        {
+          "text": {
+            "content": "scraps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006881209,
+      "mentions": [
+        {
+          "text": {
+            "content": "shopping",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006847014,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chicken pieces",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006847014,
+      "mentions": [
+        {
+          "text": {
+            "content": "chicken pieces",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006822855,
+      "mentions": [
+        {
+          "text": {
+            "content": "seat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006205952,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005344553,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036882202,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036525396,
+      "mentions": [
+        {
+          "text": {
+            "content": "fact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034525958,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034525958,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034448605,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034326904,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003223587,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031874503,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029151933,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "decision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027868212,
+      "mentions": [
+        {
+          "text": {
+            "content": "decision",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Babesia Gibsoni",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026730716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Babesia Gibsoni",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "variety",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drive",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0025824558,
+      "mentions": [
+        {
+          "text": {
+            "content": "drive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corner",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002575374,
+      "mentions": [
+        {
+          "text": {
+            "content": "corner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002575374,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002564732,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PAWS network",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002560521,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAWS network",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024930404,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023016108,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022141146,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mothering responsibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021958076,
+      "mentions": [
+        {
+          "text": {
+            "content": "mothering responsibilities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002149922,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021474017,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002095902,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020611153,
+      "mentions": [
+        {
+          "text": {
+            "content": "TV",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020581454,
+      "mentions": [
+        {
+          "text": {
+            "content": "entry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001981155,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019775832,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "harness",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0019769077,
+      "mentions": [
+        {
+          "text": {
+            "content": "harness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019769077,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019769077,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019752297,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019752297,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019752297,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019608275,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "countries",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019608275,
+      "mentions": [
+        {
+          "text": {
+            "content": "countries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019585283,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001956432,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001806894,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001806894,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "harness",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0018046692,
+      "mentions": [
+        {
+          "text": {
+            "content": "harness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018046692,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018036361,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018036361,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noises",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017490704,
+      "mentions": [
+        {
+          "text": {
+            "content": "noises",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beach",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001736316,
+      "mentions": [
+        {
+          "text": {
+            "content": "beach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "speeds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001736316,
+      "mentions": [
+        {
+          "text": {
+            "content": "speeds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017362494,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017334643,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dinner",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017309528,
+      "mentions": [
+        {
+          "text": {
+            "content": "dinner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017309528,
+      "mentions": [
+        {
+          "text": {
+            "content": "meal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "travel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017221915,
+      "mentions": [
+        {
+          "text": {
+            "content": "travel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017221915,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repsonsibility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017221915,
+      "mentions": [
+        {
+          "text": {
+            "content": "repsonsibility",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "postings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017221915,
+      "mentions": [
+        {
+          "text": {
+            "content": "postings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "background",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001720172,
+      "mentions": [
+        {
+          "text": {
+            "content": "background",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wariness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001720172,
+      "mentions": [
+        {
+          "text": {
+            "content": "wariness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001720172,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001720172,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "start",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.001720172,
+      "mentions": [
+        {
+          "text": {
+            "content": "start",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017150728,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016681621,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disagreements",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015869808,
+      "mentions": [
+        {
+          "text": {
+            "content": "disagreements",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015869808,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "concern",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001585979,
+      "mentions": [
+        {
+          "text": {
+            "content": "concern",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001585979,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "squeals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001585979,
+      "mentions": [
+        {
+          "text": {
+            "content": "squeals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movements",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.001585979,
+      "mentions": [
+        {
+          "text": {
+            "content": "movements",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crowds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015850266,
+      "mentions": [
+        {
+          "text": {
+            "content": "crowds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015850266,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015850266,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visitors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015841192,
+      "mentions": [
+        {
+          "text": {
+            "content": "visitors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013542586,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0013542586,
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013536935,
+      "mentions": [
+        {
+          "text": {
+            "content": "entry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tests",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013531471,
+      "mentions": [
+        {
+          "text": {
+            "content": "tests",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fever",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011894102,
+      "mentions": [
+        {
+          "text": {
+            "content": "fever",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011884338,
+      "mentions": [
+        {
+          "text": {
+            "content": "hope",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011884338,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "samples",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011884338,
+      "mentions": [
+        {
+          "text": {
+            "content": "samples",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worst",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011884338,
+      "mentions": [
+        {
+          "text": {
+            "content": "worst",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tests",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001125414,
+      "mentions": [
+        {
+          "text": {
+            "content": "tests",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0010855595,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010359138,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shadow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010240272,
+      "mentions": [
+        {
+          "text": {
+            "content": "shadow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094575033,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "answering flick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009162771,
+      "mentions": [
+        {
+          "text": {
+            "content": "answering flick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00083031604,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chair",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00083031604,
+      "mentions": [
+        {
+          "text": {
+            "content": "chair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00083031604,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet minder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008134799,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet minder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000715762,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand Bio Security",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0007027207,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Zealand Bio Security",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "NZ",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/New_Zealand",
+        "mid": "/m/0ctw_b"
+      },
+      "salience": 0.00070242735,
+      "mentions": [
+        {
+          "text": {
+            "content": "NZ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
+        "mid": "/m/0chghy"
+      },
+      "salience": 0.00070242735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Australia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0006519221,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005954901,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005942663,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052269915,
+      "mentions": [
+        {
+          "text": {
+            "content": "sticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005224253,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shreds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "shreds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "holiday",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "holiday",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contents",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "contents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "row",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "row",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rug",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "rug",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bookshelf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00052216265,
+      "mentions": [
+        {
+          "text": {
+            "content": "bookshelf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "works",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0005219105,
+      "mentions": [
+        {
+          "text": {
+            "content": "works",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "half",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005219105,
+      "mentions": [
+        {
+          "text": {
+            "content": "half",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "displeasure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005219105,
+      "mentions": [
+        {
+          "text": {
+            "content": "displeasure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00049003906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah Rees",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Charles Dickens",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01v9724",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Dickens"
+      },
+      "salience": 0.00030832068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Dickens",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00025586676,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 19.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

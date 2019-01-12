@@ -1,0 +1,430 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello everyone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "My name is Marshmallow Muffin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am sweet and everyone's favourite like my name.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You will love me because I am playful, friendly and of course - adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We will have fun playing together, talking to each other and cuddle on the sofas or in bed together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am warm and fuzzy like a teddy bear.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I will keep you happy every day with my cuteness and cute things that I do.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Take me home with you Love, Muffin Note : Adoption fee is FREE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would like to request cat food from the adopter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "This is for the other fostered cats and kittens at our place.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "TQVM",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3824751,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17856203,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08737811,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "favourite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07695888,
+      "mentions": [
+        {
+          "text": {
+            "content": "favourite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Marshmallow Muffin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0667444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marshmallow Muffin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022521451,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sofas",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020037474,
+      "mentions": [
+        {
+          "text": {
+            "content": "sofas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020037474,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019517768,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019079085,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "teddy bear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018349295,
+      "mentions": [
+        {
+          "text": {
+            "content": "teddy bear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuteness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01831466,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuteness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016576482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009632348,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009632348,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009632348,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067529636,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Muffin Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006054241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muffin Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006054241,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQVM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056892983,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQVM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.4,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

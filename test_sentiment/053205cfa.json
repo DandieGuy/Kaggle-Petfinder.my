@@ -1,0 +1,216 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is Ginger in colour.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He is very curious, likes moving around and poke into anything that intrigues him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He likes playing with human being too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Besides that, he enjoys sitting by the master's side, and he likes rubbing his head against anyone who treats him nice. :-)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please call the phone number stated above if you're interested! :D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3233171,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0f9n3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      "salience": 0.248969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21964955,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human being",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042624515,
+      "mentions": [
+        {
+          "text": {
+            "content": "human being",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038998425,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038998425,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032945856,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029363232,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012949583,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ":D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012184288,
+      "mentions": [
+        {
+          "text": {
+            "content": ":D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

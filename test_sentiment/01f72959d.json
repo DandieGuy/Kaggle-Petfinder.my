@@ -1,0 +1,542 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They (total 6 puppies) were found near the industrial area in Shah Alam, under some truck parked near the area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "It is very dangerous for this amount of puppies to stay there so I temporary foster them as previously they often move around the area (huge truck move in and out).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I've also discovered that their mother may be suspected to have Canine transmissible venereal tumor (CTVT).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have limited resources (money) as Im just a student.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Hope that the puppies able to get adopted ASAP so I can help the mother to get through her treatment and have a better life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "**Anyone who are interested to adopt, please make a call (leave a message if I did not pick up immediately) or Whatsapp me through the phone number provided.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Suitable adopter will be considered if the following criteria is met: 1) MUST be spayed at 6 months 2) MUST NOT be caged or chained for long periods of time 3) adopter must be a dog lover and able to take care of her permanently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26435953,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12027235,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12027235,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truck",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.11012747,
+      "mentions": [
+        {
+          "text": {
+            "content": "truck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shah Alam",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0syrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shah_Alam"
+      },
+      "salience": 0.058300547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Alam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032542728,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027871434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022631008,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022631008,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018592356,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amount",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01815659,
+      "mentions": [
+        {
+          "text": {
+            "content": "amount",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015316983,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013892411,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013252615,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0123155005,
+      "mentions": [
+        {
+          "text": {
+            "content": "student",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0123155005,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truck move",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012269254,
+      "mentions": [
+        {
+          "text": {
+            "content": "truck move",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CTVT",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01220841,
+      "mentions": [
+        {
+          "text": {
+            "content": "CTVT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "resources",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012165422,
+      "mentions": [
+        {
+          "text": {
+            "content": "resources",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tumor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01205963,
+      "mentions": [
+        {
+          "text": {
+            "content": "tumor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011271533,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0111341225,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "criteria",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008464545,
+      "mentions": [
+        {
+          "text": {
+            "content": "criteria",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074089365,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Im",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007288757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Im",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Canine",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0bt9lr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dog"
+      },
+      "salience": 0.0072252564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canine",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067855683,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037220425,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029462199,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.002199904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

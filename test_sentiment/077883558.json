@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, for those interested with my handsome Prince Zorro, he has been adopted, Thanks for your support... :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Zorro",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01545h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Zorro"
+      },
+      "salience": 0.72482234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zorro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Prince",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "support",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19002068,
+      "mentions": [
+        {
+          "text": {
+            "content": "support",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

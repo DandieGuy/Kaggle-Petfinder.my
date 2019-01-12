@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brad is a 6 month old puppy that is looking for a forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is a rescued puppy, very energetic and loves affection!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You can meet him at the next adoption drive at Jaya One this Sunday, Oct , from 11am to 5.30pm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "No. 72A, Jalan Universiti, Petaling Jaya, Selangor",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Brad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46178818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38785732,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05689319,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027479433,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "affection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019232038,
+      "mentions": [
+        {
+          "text": {
+            "content": "affection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption drive",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017579986,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption drive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jaya One",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1q5bltrnl"
+      },
+      "salience": 0.011881867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jaya One",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Petaling Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya",
+        "mid": "/m/03dqts"
+      },
+      "salience": 0.0062692934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Universiti",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03hjdc3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jalan_Universiti"
+      },
+      "salience": 0.0055093383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Universiti",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.0055093383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

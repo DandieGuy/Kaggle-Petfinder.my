@@ -1,0 +1,548 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "LUNAR was just found today!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "thus the name~ I found her wandering around the garden She's very sweet,friendly and relatively tame.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "An orphan and very well behaved.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I don't know much about cats...so I'm not sure about the breed or age.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She's white, has patches of cream and grey.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Blue eyes and tinee tiny.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "SO CUTE @! but i can't keep her cause my parents aren't really cat people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Shes been fed and bathed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption fee is ZERO.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Give her a chance and a good home, lots of love and more food...(cause shes too skinny now)!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Save a kitty today~ Please leave comment, PM or email at SERIOUS ADOPTERS ONLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "KL AREA.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16768432,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LUNAR",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14517492,
+      "mentions": [
+        {
+          "text": {
+            "content": "LUNAR",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11839847,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "orphan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045125667,
+      "mentions": [
+        {
+          "text": {
+            "content": "orphan",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03540138,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03186688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030690096,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.030690096,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030690096,
+      "mentions": [
+        {
+          "text": {
+            "content": "grey",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030621631,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030399427,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030399427,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030399427,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "comment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02929825,
+      "mentions": [
+        {
+          "text": {
+            "content": "comment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027372496,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023973389,
+      "mentions": [
+        {
+          "text": {
+            "content": "shes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "@!",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022574844,
+      "mentions": [
+        {
+          "text": {
+            "content": "@!",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02106508,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02106508,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021040458,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014737157,
+      "mentions": [
+        {
+          "text": {
+            "content": "email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KL AREA",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014721412,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL AREA",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011136009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SERIOUS ADOPTERS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009921182,
+      "mentions": [
+        {
+          "text": {
+            "content": "SERIOUS ADOPTERS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009248473,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009248473,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007055868,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,238 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I've found their mother a month ago at my restaurant.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "obviously they been dumped by their owner just because they pregnant ..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "After She delivered 3 kittens, we put them in our care for a month now.. because we afraid the dogs might hurt them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "So now I think they ready for adoption as they can eat by their own. .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone interested can gve a me sms Or wassup...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "azlin..tq",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37873384,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2891434,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "restaurant",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11349639,
+      "mentions": [
+        {
+          "text": {
+            "content": "restaurant",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055079795,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037547063,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03446731,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025847139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018112188,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wassup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018112188,
+      "mentions": [
+        {
+          "text": {
+            "content": "wassup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tq",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01807171,
+      "mentions": [
+        {
+          "text": {
+            "content": "tq",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01138895,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

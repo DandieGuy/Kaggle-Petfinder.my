@@ -1,0 +1,473 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Happy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "As you can tell, she is a happy girl!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She was rescued from OUG wet market in really bad condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She was thrown by her owner in a box, infested with fleas, mites, etc and she was crying from the pain of be bled by the fleas or for being abandoned!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Rescuer took her immediately to the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is healthy now with the exception of minor skin allergy due to not being treated earlier by the owner who abandoned her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She has not been spayed coz she cannot keep the cone on for more than 2 seconds and no one is able to keep an eye on her every second.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Foster mom is willing to pay for the spaying if she is adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone interested, please call us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "God Bless.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7821218,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025895815,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016343497,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01441919,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01441919,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014368578,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0110510085,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0110510085,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009805145,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mites",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009712251,
+      "mentions": [
+        {
+          "text": {
+            "content": "mites",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009712251,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exception",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00897894,
+      "mentions": [
+        {
+          "text": {
+            "content": "exception",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin allergy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00897894,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin allergy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OUG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008544661,
+      "mentions": [
+        {
+          "text": {
+            "content": "OUG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008124631,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008111336,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "second",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067589474,
+      "mentions": [
+        {
+          "text": {
+            "content": "second",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006562724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescuer",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061267475,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047260774,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004719243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003991953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foster",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "God Bless",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027869763,
+      "mentions": [
+        {
+          "text": {
+            "content": "God Bless",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026891015,
+      "mentions": [
+        {
+          "text": {
+            "content": "cone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

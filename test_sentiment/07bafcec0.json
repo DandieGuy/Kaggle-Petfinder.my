@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Smart pup for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Location: butterworth/penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pls call/watsapp:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5509814,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24980952,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.087962694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062038973,
+      "mentions": [
+        {
+          "text": {
+            "content": "watsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "butterworth/penang",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049207397,
+      "mentions": [
+        {
+          "text": {
+            "content": "butterworth/penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

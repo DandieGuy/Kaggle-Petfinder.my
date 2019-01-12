@@ -1,0 +1,938 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I save racoon with they siblings when adult dog bite they and bleeding got maggot wound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Now they are healthy and adopt the sis&amp;bro and left raccoon, he is the weakest when I found he almost die.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Raccoon take so much time to recover and now he completely heal and energetic.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Because he lost mother in early age before a month around 4week I pick they up, dairy stuff like milk, yogurt, cream or cheese become he favorite.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He scare of big dog already due to trauma bite by adult dog and like to suck finger thought is mommy nipple.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is most seldom and can be keep in cage, when he noisy only at dinner time like you start give he eat will notice and bark only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now In middle in train to put leash and suit he to take a walk and need careful shoe he like to chew on it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He gentle toward cat and friendly but sometime will scare new face so need time to suitable new environment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I hope adopter read before msg me, REQUIREMENTS: Take Raccoon to vaccine and deworm and spare your time and must take responsibity 1year to 20 year to take care he until die.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you are cannot accept please don't brother to msg or you cannot confirm to adopt don't ever msg me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Reason I wan adopter to vaccine coz I financial problem and I can afford to take care but cannot afford to take they to vet and other reason is I been complain by neighbor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "My self also got save dog and keep they with me already reach 7 of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So I cannot increase they anymore.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Location seri kembangan, taman lestari putra Jalan lep 5/12, house no 55 Contact me Whatsapp, SMS or call Or email me",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Raccoon",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0dq75",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raccoon"
+      },
+      "salience": 0.2980001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raccoon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Raccoon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19292116,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weakest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12724395,
+      "mentions": [
+        {
+          "text": {
+            "content": "weakest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adult dog bite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04336181,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult dog bite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "racoon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037711598,
+      "mentions": [
+        {
+          "text": {
+            "content": "racoon",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bleeding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037711598,
+      "mentions": [
+        {
+          "text": {
+            "content": "bleeding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy nipple",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02398926,
+      "mentions": [
+        {
+          "text": {
+            "content": "scare",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mommy nipple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maggot wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023764294,
+      "mentions": [
+        {
+          "text": {
+            "content": "maggot wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sis&bro",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018237015,
+      "mentions": [
+        {
+          "text": {
+            "content": "sis&amp;bro",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raccoon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016542599,
+      "mentions": [
+        {
+          "text": {
+            "content": "raccoon",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoe",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010125641,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cheese",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "cheese",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yogurt",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "yogurt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dairy stuff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "dairy stuff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068680667,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006194841,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adult dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006194841,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walk",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005335127,
+      "mentions": [
+        {
+          "text": {
+            "content": "walk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trauma bite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052621067,
+      "mentions": [
+        {
+          "text": {
+            "content": "trauma bite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004852846,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004669304,
+      "mentions": [
+        {
+          "text": {
+            "content": "bark",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004660465,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004660465,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004660465,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "finger thought",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004622606,
+      "mentions": [
+        {
+          "text": {
+            "content": "finger thought",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046122577,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043874867,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004291167,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004269166,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004269166,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004269166,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "REQUIREMENTS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004262988,
+      "mentions": [
+        {
+          "text": {
+            "content": "REQUIREMENTS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041769375,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "self",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004094104,
+      "mentions": [
+        {
+          "text": {
+            "content": "self",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003648497,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032048167,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032048167,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022364547,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022364547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022364547,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018363557,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017774819,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "responsibity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016128846,
+      "mentions": [
+        {
+          "text": {
+            "content": "responsibity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015998624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "die",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014086282,
+      "mentions": [
+        {
+          "text": {
+            "content": "die",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taman lestari putra Jalan lep",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.001321628,
+      "mentions": [
+        {
+          "text": {
+            "content": "taman lestari putra Jalan lep",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kembangan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001321628,
+      "mentions": [
+        {
+          "text": {
+            "content": "kembangan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.001321628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

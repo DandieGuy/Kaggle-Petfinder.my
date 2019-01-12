@@ -1,0 +1,279 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Furby is * Smart and good looking * Affectionate and chatty * Clean cat; has been trained to use the litter box.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Looking to find Fury a good home as I am moving in to a condo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me for more details/photos.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks for browsing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If this is not the pet you are looking for please check out my other cats for adoption below.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Smart",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.25209677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smart",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Furby",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01dg1c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Furby"
+      },
+      "salience": 0.23800199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Furby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1304811,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08899165,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06768453,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04015272,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039954826,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038281146,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fury",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0t_5p_m",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Fury_(2014_film)"
+      },
+      "salience": 0.02563862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fury",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021032011,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017934881,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0132811265,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013234313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "browsing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013234313,
+      "mentions": [
+        {
+          "text": {
+            "content": "browsing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

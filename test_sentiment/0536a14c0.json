@@ -1,0 +1,340 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Wolfie was abandoned at an adoption drive held in Jaya One by MDDB.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "when we had him, he had skin issues, was malnourished, was never groomed (his nails were very long)and had tear stains till the hair where the tear stains didnt grow anymore.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "now, he is healthy, had one vaccination jab (another one coming soon, hair has grown properly (especially his face as tears are wiped often) and is a health active boy. he is very shy and needs alot of love as we suspect previously he was often mistreated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please help find him a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Wolfie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6954083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wolfie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption drive",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.07379229,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption drive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jaya One",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc2hkbrb"
+      },
+      "salience": 0.05055883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jaya One",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MDDB",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.044609725,
+      "mentions": [
+        {
+          "text": {
+            "content": "MDDB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02754361,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin issues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014008296,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin issues",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stains",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010781114,
+      "mentions": [
+        {
+          "text": {
+            "content": "stains",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tear stains",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010266807,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear stains",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009969319,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00937806,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination jab",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008763309,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination jab",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008447411,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007178908,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006612064,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006612064,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005637844,
+      "mentions": [
+        {
+          "text": {
+            "content": "alot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nails",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042204396,
+      "mentions": [
+        {
+          "text": {
+            "content": "nails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003306712,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029049055,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,216 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Stray kitten found in the middle of the street, too lethargic from dehydration and absence of food for many days ( it seems so), desperately in need of a good owner, just found in Pusat Bandar Puchong, black and white, healthy, no picture because no time to get one, sorry about that!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please give this sad kitten a home!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dehydration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21693355,
+      "mentions": [
+        {
+          "text": {
+            "content": "dehydration",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18009593,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.160727,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.160727,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "absence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065500736,
+      "mentions": [
+        {
+          "text": {
+            "content": "absence",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065500736,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045396436,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045396436,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pusat Bandar Puchong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/080n9tq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pusat_Bandar_Puchong"
+      },
+      "salience": 0.024978314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pusat Bandar Puchong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01406745,
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012428908,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008247532,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

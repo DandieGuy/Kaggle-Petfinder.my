@@ -1,0 +1,200 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Gus Gus is a handsome boy with a unique look and has beautiful markings on his body (spotty like the bengals) and has a bear-like/lion-like face.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is a very good but sensitive boy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He loves lots of attention and love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7090784,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gus Gus",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09644347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gus Gus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04749178,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04749178,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bengals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03291501,
+      "mentions": [
+        {
+          "text": {
+            "content": "bengals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032525193,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010199706,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0082786605,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007788021,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007788021,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

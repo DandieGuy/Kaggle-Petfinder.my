@@ -1,0 +1,228 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "T-T was rescued and sent to SPCA.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The day of her arrival, she had open wound (skinned).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She was taken cared by Dr Pushpa, and she is still waiting to be homed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is a cool, tame and calm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Good companion...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She deserves a better place on this world...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Lend us your hand...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "T-T",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.80096996,
+      "mentions": [
+        {
+          "text": {
+            "content": "T-T",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SPCA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0117qddf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Cruelty_to_Animals"
+      },
+      "salience": 0.07869175,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pushpa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038002025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pushpa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arrival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02512019,
+      "mentions": [
+        {
+          "text": {
+            "content": "arrival",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017037397,
+      "mentions": [
+        {
+          "text": {
+            "content": "wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01183064,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0118043255,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008279655,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0082640415,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

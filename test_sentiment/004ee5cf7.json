@@ -1,0 +1,145 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sugar is the confident sort- you can tell just by the way she walks!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "A natural extrovert, Sugar needs owners who are willing to keep her interested and entertained- walks and ball games will do just the trick!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sugar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.76827276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sugar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sort",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06722322,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060795765,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sugar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034176715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sugar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "extrovert",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030092977,
+      "mentions": [
+        {
+          "text": {
+            "content": "extrovert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball games",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020917356,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball games",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018521186,
+      "mentions": [
+        {
+          "text": {
+            "content": "trick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found this puppy by the road side",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.57888854,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.42111146,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

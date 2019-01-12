@@ -1,0 +1,183 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sandy is about 3 years old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Looks like she had some basic training.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She only poops and pees if she's taken for a walk.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She understands the word sit and shake-hands and loves to play fetch.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Very sweet and fun girl to have around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sandy",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.44023764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Looks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13178207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Looks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12119256,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walk",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.08304068,
+      "mentions": [
+        {
+          "text": {
+            "content": "walk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08204286,
+      "mentions": [
+        {
+          "text": {
+            "content": "pees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07603313,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040287722,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shake-hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025383357,
+      "mentions": [
+        {
+          "text": {
+            "content": "shake-hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

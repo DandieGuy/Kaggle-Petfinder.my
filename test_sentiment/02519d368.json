@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "we found it at the field we had been told that there are someone abandon them at there and we currently stay at my house under very good condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "we unable to take care them so long therefore hereby I hope someone could adopt them and give them a warm home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "field",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.6051805,
+      "mentions": [
+        {
+          "text": {
+            "content": "field",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15715678,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.095734,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.088001095,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036663394,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017264253,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

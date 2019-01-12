@@ -1,0 +1,293 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These two are adorable little girls who like playing around and sleeping in shoes!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They like rolling around on their backs and strangely are afraid of heights (which is adorable how they'll cling onto you when they're scared) they currently are able to eat wet food and a little dry kibbles :) and is potty trained to poop on newspaper.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The RM15 is merely for the cost of vet visitations , deworm meds and milk :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "P.s Please bring your own pet carrier/ shoe box/ box for carrying the kitten :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5291024,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19930273,
+      "mentions": [
+        {
+          "text": {
+            "content": "heights",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.081611566,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "backs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034964763,
+      "mentions": [
+        {
+          "text": {
+            "content": "backs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022000656,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022000656,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet visitations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016523615,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet visitations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016523615,
+      "mentions": [
+        {
+          "text": {
+            "content": "meds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016523615,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet carrier",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011540524,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet carrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011540524,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoe box/ box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011335978,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoe box/ box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007300046,
+      "mentions": [
+        {
+          "text": {
+            "content": "poop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newspaper",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.007300046,
+      "mentions": [
+        {
+          "text": {
+            "content": "newspaper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072637736,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM15",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0051655346,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM15",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

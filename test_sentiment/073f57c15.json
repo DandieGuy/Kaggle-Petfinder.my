@@ -1,0 +1,301 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Houdini is a smart and intelligent dog, active, friendly and very affectionate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He was found in December at Kampung Tunku, PJ with a fractured front leg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The injury has since been treated and he has made a full recovery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is now looking for a permanent home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Houdini has learnt a few commands while staying with us: he happily plays fetch; sits and goes down on command.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Comes whenever he's called.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "'Stay' needs a little more work but he's generally eager to please.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Great with children and generally a wonderful pet to have.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Houdini",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63763523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Houdini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Houdini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18932652,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020763284,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recovery",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02001031,
+      "mentions": [
+        {
+          "text": {
+            "content": "recovery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019940266,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019865826,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019767882,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kampung Tunku",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11c436qxj8",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kampung_Tunku_(state_constituency)"
+      },
+      "salience": 0.01742735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kampung Tunku",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PJ",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03dqts",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya"
+      },
+      "salience": 0.01742735,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011711128,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009611086,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009611086,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069026835,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}
